@@ -154,7 +154,7 @@ input, select, textarea {
 
 	body {
 		background-color: #f3f3f3;
-		color: #000000;
+		color: #0d0d0e;
 	}
 
 	body, input, select, textarea {
@@ -325,7 +325,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: #5c47e5;
 		}
 
 	strong, b {
@@ -2197,8 +2197,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			box-shadow: inset 0 0 0 1px #342983;
+			color: #bc1324 !important;
 		}
 
 		input[type="submit"]:active,
